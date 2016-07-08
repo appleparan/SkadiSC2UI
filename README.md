@@ -10,12 +10,12 @@ How to use
 Hotkeys
 =========
 
-Ctrl+N - Toggles name panel
-Ctrl+0/1/2/3/4/5 - Sets the score for the left player
-Shift+0/1/2/3/4/5 - Sets the score for the right player
-Ctrl+Shift+1/3/5/7/9 - Sets Best Of 1/3/5...
-Ctrl+Shift+A - APM panel
-Shift+O - that panel with player's cameras to choose.
-Shift+L - units lost panel
-Shift+K - structures lost panel
-Ctrl+W - hide bottom left and right panels
+- Ctrl+N - Toggles name panel
+- Ctrl+0/1/2/3/4/5 - Sets the score for the left player
+- Shift+0/1/2/3/4/5 - Sets the score for the right player
+- Ctrl+Shift+1/3/5/7/9 - Sets Best Of 1/3/5...
+- Ctrl+Shift+A - APM panel
+- Shift+O - that panel with player's cameras to choose.
+- Shift+L - units lost panel
+- Shift+K - structures lost panel
+- Ctrl+W - hide bottom left and right panels
